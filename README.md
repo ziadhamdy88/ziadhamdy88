@@ -38,4 +38,3 @@
 </div>
 
 <h2>TryHackMe Stats</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ZiadHamdy8.png" alt="TryHackMe">
