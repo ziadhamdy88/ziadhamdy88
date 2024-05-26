@@ -19,8 +19,6 @@
   <img src="./assets/bash.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="./assets/powershell.svg" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 <img />
